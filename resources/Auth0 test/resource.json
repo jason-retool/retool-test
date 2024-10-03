@@ -43,7 +43,7 @@
     "oauth1_realm_parameter": "",
     "oauth1_signature_method": "HMAC-SHA1",
     "oauth2_access_token_url": "",
-    "auth0_access_token_expiry_date": "2024-09-27T02:26:34.498Z",
+    "auth0_access_token_expiry_date": "",
     "digest_server_auth_header_response": ""
   },
   "environment": "production",
