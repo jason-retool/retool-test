@@ -10,7 +10,7 @@
   "ssl": null,
   "editPrivilege": null,
   "options": {
-    "baseURL": "http://localhost:8080",
+    "baseURL": "https://example.com",
     "headers": [["", ""]],
     "urlparams": [["", ""]],
     "auth0_domain": "dev-mbeslp7twxqj6lww.us.auth0.com",
@@ -42,6 +42,7 @@
     "oauth1_consumer_secret": "",
     "oauth1_realm_parameter": "",
     "oauth1_signature_method": "HMAC-SHA1",
+    "auth0_access_token_expiry_date": "2024-10-04 16:38:02.838 -700",
     "digest_server_auth_header_response": ""
   },
   "environment": "production",
