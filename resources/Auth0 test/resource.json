@@ -10,7 +10,7 @@
   "ssl": null,
   "editPrivilege": null,
   "options": {
-    "baseURL": "http://localhost:8080",
+    "baseURL": "https://example.com",
     "headers": [["", ""]],
     "urlparams": [["", ""]],
     "auth0_domain": "dev-mbeslp7twxqj6lww.us.auth0.com",
