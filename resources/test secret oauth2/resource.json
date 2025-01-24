@@ -36,7 +36,7 @@
     "oauth1_token_secret": "",
     "oauth2_callback_url": "OAUTH2_CALLBACK_URL",
     "session_cookie_name": "",
-    "oauth2_client_secret": "{{ secrets['test'] }}",
+    "oauth2_client_secret": "",
     "auth0_custom_audience": "",
     "oauth1_consumer_secret": "",
     "oauth1_realm_parameter": "",
